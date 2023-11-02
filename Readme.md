@@ -1,4 +1,4 @@
-**DSTS Final Project**
+## DSTS Final Project
 
 This project consists of the following files:
 1. Part A - onpremises.ipynb
@@ -6,7 +6,7 @@ This project consists of the following files:
 3. Part B - oncloud.html
 4. A tableau dashboard was made for this project which is available on the following link: https://public.tableau.com/app/profile/alan.gaugler/viz/DSTS_2/Delays?publish=yes
 
-**Part A**  
+### Part A
 
 The dataset used for this project is a zip file of 60 zip files. Each of these 60 zip files contain flight data of US domestics flight for each month in the 5 year period from January 2014 to December 2018. Included are the following files:
 1. A CSV file containing all the flight information in the US for a one-month period. This will contain several hundred thousand rows for each flight and 109 variables. Many of these variables are partially or mostly empty.
@@ -41,7 +41,7 @@ https://www.ncei.noaa.gov/access/services/data/v1?dataset=daily-summaries&statio
 This consists of weather data from the weather stations nearest to the 9 busiest airports during the period of the flight data. In this case January 2014 to December 2018. If you are running this program for a different period of time, please collect the weather data for the appropriate period and site locations from the same website.
 This describes the instructions for running this code on other machines. It should be very simple to execute.
  
-**Part B**
+### Part B
 
 To run the code for Part B on AWS is straight forward.
 First you must have an AWS account.
