@@ -1,7 +1,7 @@
-DSTS Assignment 2
+DSTS Final Project  
 This project consists of the following files:
 1. Part A - onpremises.ipynb
-2. Part B - oncloud.ipynb
+2. Part B - oncloud.ipynb # Note this is just the unrun code.
 3. Part B - oncloud.html
 4. A tableau dashboard was made for this project which is available on the following link: https://public.tableau.com/app/profile/alan.gaugler/viz/DSTS_2/Delays?publish=yes
 
